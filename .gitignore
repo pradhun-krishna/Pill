@@ -1,0 +1,21 @@
+# Build & packaging outputs
+bin/
+obj/
+publish/
+msix-stage/
+dist/
+.sdk-tools/
+*.msix
+*.msixbundle
+*.appx
+*.pdb
+*.log
+msix-priconfig.xml
+
+# IDE / OS
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
